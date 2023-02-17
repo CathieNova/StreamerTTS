@@ -22,7 +22,7 @@ With this program you can easily communicate with your Stream Chat or friends in
 [Download Here](https://www.patreon.com/cathienna/posts?filters%5Btag%5D=StreamerTTS)
 
 # How to Setup:
-##Step 1:
+Step 1:
 - Create an Amazon AWS account [Here](https://us-east-1.console.aws.amazon.com/)
 - Login using the account created.
 - Go to the Top Right of the page and click your name, then press "Security credentials"
@@ -30,7 +30,7 @@ With this program you can easily communicate with your Stream Chat or friends in
 - Create a Group Name called "Transcribe" then in the "Attach permissions policies" search for "Transcribe" and press enter.
 - Click checkbox of "AmazonTranscribeFullAccess" and click Create Group.
 
-##Step 2:
+Step 2:
 - Click "Users" on the left side and then "Add users top right.
 - Create any name you want, then press Next.
 - Click the checkbox next to the group you made in Step 1, then press Next and then Create User.
@@ -38,7 +38,7 @@ With this program you can easily communicate with your Stream Chat or friends in
 - Now select "Attach policies directly" and search for Polly and check "AmazonPollyReadOnlyAccess" then next then add permissions
 - Go back into "User Groups", select your group and checkbox the user you made, then add users.
 
-##Step 3:
+Step 3:
 - Click on the user you made and go to "Security credentials" and click "Enable console access"
 - select Enable and either Auto or Custom password then press Apply.
 - PS (Remember this password, write it down or you can download the CSV file)
