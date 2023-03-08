@@ -44,7 +44,6 @@ Step 3:
 - PS (Remember this password, write it down or you can download the CSV file)
 - Now go down to "Access keys" and Create access key
 - Select "Application running outside AWS" and press next.
-- Write in "StreamerTTS" and create access key.
 - Now you have access to the AccessID and the SecretID.
 - Copy them both and paste them into the TTS program, then click Login!
 - Have fun ^_^
