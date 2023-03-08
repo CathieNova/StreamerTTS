@@ -42,6 +42,7 @@ Step 3:
 - Click on the user you made and go to "Security credentials" and click "Enable console access"
 - select Enable and either Auto or Custom password then press Apply.
 - PS (Remember this password, write it down or you can download the CSV file)
+- Now go down to "Access keys" and Create access key
 - Select "Application running outside AWS" and press next.
 - Write in "StreamerTTS" and create access key.
 - Now you have access to the AccessID and the SecretID.
